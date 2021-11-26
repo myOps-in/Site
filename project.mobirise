@@ -1,0 +1,77 @@
+{
+  "settings": {
+    "path": "@PROJECT_PATH@",
+    "name": "myOps",
+    "screenshot": "screenshot.png",
+    "versionFirst": "5.3.10",
+    "siteFonts": [],
+    "theme": {
+      "additionalSetColors": []
+    },
+    "currentPage": "index.html",
+    "uniqCompNum": 0,
+    "versionPublish": "5.3.10",
+    "imageResize": true,
+    "favicon": false,
+    "mbrsiteDomain": "f1diakkkgt",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "myOps",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "myOps",
+          "text": "<i>Under Construction</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-NaN",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#f7da64"
+            },
+            "H1": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
